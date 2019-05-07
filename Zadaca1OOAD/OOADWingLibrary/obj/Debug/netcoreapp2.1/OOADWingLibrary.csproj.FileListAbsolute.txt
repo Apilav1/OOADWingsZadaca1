@@ -1,0 +1,9 @@
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\bin\Debug\netcoreapp2.1\OOADWingLibrary.deps.json
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\bin\Debug\netcoreapp2.1\OOADWingLibrary.dll
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\bin\Debug\netcoreapp2.1\OOADWingLibrary.pdb
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\obj\Debug\netcoreapp2.1\OOADWingLibrary.csprojAssemblyReference.cache
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\obj\Debug\netcoreapp2.1\OOADWingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\obj\Debug\netcoreapp2.1\OOADWingLibrary.AssemblyInfoInputs.cache
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\obj\Debug\netcoreapp2.1\OOADWingLibrary.AssemblyInfo.cs
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\obj\Debug\netcoreapp2.1\OOADWingLibrary.dll
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\OOADWingLibrary\obj\Debug\netcoreapp2.1\OOADWingLibrary.pdb

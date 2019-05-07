@@ -1,0 +1,14 @@
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWings.deps.json
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWings.runtimeconfig.json
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWings.runtimeconfig.dev.json
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWings.dll
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWings.pdb
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.csprojAssemblyReference.cache
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.csproj.CoreCompileInputs.cache
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.AssemblyInfoInputs.cache
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.AssemblyInfo.cs
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.dll
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.pdb
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWingLibrary.dll
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\bin\Debug\netcoreapp2.1\OOADWingLibrary.pdb
+C:\Users\Adi Pilav\source\repos\Zadaca1OOAD\Zadaca1OOAD\obj\Debug\netcoreapp2.1\OOADWings.csproj.CopyComplete
